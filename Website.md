@@ -42,25 +42,13 @@ Tech Stack: Github codepspaces, VS code
 
 Languages: HTML/CSS/JS
 
-# Iteration Log
 
-Date:
-Version:
-Changes Made:
-Reason:
-Observed Outcome:
-Next Adjustment:
-
-This turns chaos into learning.
 
 # Future Roadmap
 
-Short Term:
-Mid Term:
-Long Term:
-
-What gets cut if resources shrink?
-What expands if resources grow?
+Short Term: Get structure down and add CSS
+Mid Term: Add carosel, projects 
+Long Term: Add javascript, youtube  and pop in animation
 
 # Postmortem (After Completion)
 
