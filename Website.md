@@ -42,7 +42,10 @@ Tech Stack: Github codepspaces, VS code
 
 Languages: HTML/CSS/JS
 
+# Iteration Log
 
+The font to get that retro CRT aesteic is courier New
+also I learned how to branch and remerge shi
 
 # Future Roadmap
 
