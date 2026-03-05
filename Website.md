@@ -69,6 +69,10 @@ What Didn’t:
 
 Unexpected Discoveries: 
 - HTML is actually super easy breaking things down on paper
+- getting html before any css worked so well
+- 
 What I’d Do Differently:
 Reusable Systems Extracted:
+- Potential for  a style sheet
+- matrix bg system
 
