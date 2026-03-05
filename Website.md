@@ -2,7 +2,7 @@
 
  Project Name: Portfolio Website
 Version: 1.1
-Status:  In Progress
+Status: Published
 Owner: Sean Lirazan
 
 One-Sentence Summary: Personal Portfolio overview of my work
@@ -38,20 +38,20 @@ Inputs: Youtube link
 
 # Technical Specifications
 
-Tech Stack: Github codepspaces, VS code
+Tech Stack: Github codepspaces, VS code, Bootstrap
 
 Languages: HTML/CSS/JS
 
 # Iteration Log
 
 The font to get that retro CRT aesteic is courier New
-also I learned how to branch and remerge shi
+also I learned how to branch and remerge 
 
 # Future Roadmap
 
 Short Term: Get structure down and add CSS
-Mid Term: Add carosel, projects 
-Long Term: Add javascript, youtube  and pop in animation
+Mid Term: Add carosel, projects as it expands, add resume page
+Long Term: Add javascript, youtube and pop in animation, crt glow and hover animations, 
 
 # Postmortem (After Completion)
 
@@ -59,9 +59,11 @@ What Worked:
 - Breaking the complex into sections, CSS comes later
 - Focus on the MVP
 - Looking to other examples for inspiration
+- getting skelleton, placement, style, then fancy animations
 
 What Didn’t:
-- Focusing on the looks first -> burnout
+- Focusing on the looks first -> burnout and confusion
+- spending first good hours on stuff i wanted instead of stuff it needed
 
 
 
