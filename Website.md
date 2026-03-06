@@ -24,7 +24,7 @@ and to get people interested in my projects and social media
 High-Level Overview
 Describe the main components and how they interact.
 
-/* ? Core Components: Dynamic header, About me Section, Internships, Current youtube video, Projects */
+Core Components: Dynamic header, About me Section, Internships, Current youtube video, Projects
 
 Component A: internships
 

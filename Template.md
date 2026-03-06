@@ -1,17 +1,17 @@
 # Project Overview
 
- Project Name: 
+Project Name: 
 Version:
 Status: (Concept / In Progress / Testing / Deployed / Archived)
 Owner: Sean Lirazan
 
-One-Sentence Summary:
+<!-- One-Sentence Summary: -->
 What this is in plain English.
 
-Expanded Description:
+<!-- Expanded Description: -->
 What problem does it solve? Why does it exist? Who is it for?
 
-Success Criteria:
+<!-- Success Criteria: -->
 How do we know it worked? Be measurable.
 
 # Purpose & Motivation
@@ -30,7 +30,7 @@ Describe the main components and how they interact.
 
 Core Components:
 
-Component A:
+<!-- Component A: -->
 
 Role:
 
@@ -40,7 +40,7 @@ Outputs:
 
 Dependencies:
 
-Component B:
+<!-- Component B: -->
 
 Role:
 
