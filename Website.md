@@ -1,7 +1,7 @@
 # Project Overview
 
  Project Name: Portfolio Website
-Version: 1.1
+Version: 1.3
 Status: Published
 Owner: Sean Lirazan
 
@@ -60,6 +60,7 @@ What Worked:
 - Focus on the MVP
 - Looking to other examples for inspiration
 - getting skelleton, placement, style, then fancy animations
+- using other JS and css as inspiration
 
 What Didn’t:
 - Focusing on the looks first -> burnout and confusion
