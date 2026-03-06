@@ -25,62 +25,33 @@ Describe the main components and how they interact.
 
 Core Components: Animal attributes, animal behaviors, gene expression and evolution, world building
 
-Component A: Animal attributes
+<!-- Component A: Animal attributes -->
 
-Role: driing factor in evolution
+Role: driving factor in evolution
 
-Inputs:
+Inputs: genes to be expressed: speed size vision
 
-Outputs:
+Outputs: behaviors
 
-Dependencies:
+<!-- Component B: Animal behaviors -->
 
-Component B:
+Role: shows how animal resonds to enviornment
 
-Role:
+Inputs: state machines and animal senses
 
-Inputs:
-
-Outputs:
-
-Dependencies:
+Outputs: what animals do
 
 Data Flow
-How information moves through the system.
+data holder, takes every event and keeps them
 
 State Management
-Where does truth live?
-What persists? What resets?
+truth lives in data holder that keeps track of all events
 
 # Technical Specifications
 
-Tech Stack:
+Tech Stack: unity, excel
 
-Languages:
-
-Frameworks:
-
-Libraries:
-
-Hardware (if applicable):
-
-Environment Requirements:
-
-OS:
-
-Dependencies:
-
-Versions:
-
-Constraints:
-
-Performance limits
-
-Memory limits
-
-Hardware limits
-
-API limits
+Languages: C++ xlsx
 
 # Key Systems Breakdown
 
