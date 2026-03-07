@@ -1,7 +1,7 @@
 # Project Overview
 
  Project Name: Portfolio Website
-Version: 1.3
+Version: 1.4
 Status: Published
 Owner: Sean Lirazan
 
