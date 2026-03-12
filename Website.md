@@ -52,6 +52,7 @@ also I learned how to branch and remerge
 Short Term: Get structure down and add CSS
 Mid Term: Add carosel, projects as it expands, add resume page
 Long Term: Add javascript, youtube and pop in animation, crt glow and hover animations, 
+Type terminal animation, pop up ads, colored blinking for progress. 
 
 # Postmortem (After Completion)
 
