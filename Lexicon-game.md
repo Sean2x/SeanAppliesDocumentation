@@ -69,7 +69,7 @@ This turns chaos into learning.
 
 # Future Roadmap
 
-Short Term:
+Short Term: add dictionary
 Mid Term:
 Long Term:
 
