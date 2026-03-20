@@ -62,16 +62,21 @@ Constant player testing
 
 Date: 3/17/26
 Version: 1.0
-Changes Made: added base fuctionality, 4x4, words bar, reshuffle, backspace, disable, re-enable
+Changes Made: added base fuctionality, 4x4, words bar, new board, backspace, disable, re-enable
 Next Adjustment: make it more gamelike, sound effects, health bar, level system, clean up scoring system
+
+Date: 3/19/26
+Version: 1.5
+Changes Made: added dictionary, seeds, rounds, shuffle, top words, cleaned up scoring system
+Next Adjustment: add special tiles, add letter score indicators, game modes, i.e. endless, best of 10 rounds; leaderboards; thanks to beta testers, most words in time mode
 
 This turns chaos into learning.
 
 # Future Roadmap
 
 Short Term: add dictionary
-Mid Term:
-Long Term:
+Mid Term: finish up website
+Long Term: import game to unity and start actual rpg
 
 What gets cut if resources shrink?
 What expands if resources grow?
