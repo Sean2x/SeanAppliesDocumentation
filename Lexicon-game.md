@@ -68,7 +68,7 @@ Next Adjustment: make it more gamelike, sound effects, health bar, level system,
 Date: 3/19/26
 Version: 1.5
 Changes Made: added dictionary, seeds, rounds, shuffle, top words, cleaned up scoring system
-Next Adjustment: add special tiles, add letter score indicators, game modes, i.e. endless, best of 10 rounds; leaderboards; thanks to beta testers, most words in time mode
+Next Adjustment: add special tiles, add letter score indicators, game modes, i.e. endless, best of 10 rounds; leaderboards; thanks to beta testers, combo system
 
 This turns chaos into learning.
 
