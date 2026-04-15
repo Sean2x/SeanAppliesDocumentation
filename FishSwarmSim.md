@@ -75,7 +75,7 @@ Languages: html, js,
 
 If you're making a game:
 
-Idle movement, Mouse fear, boundary awareness
+/Idle movement, Mouse fear, boundary awareness
 
 direction roation. speed states, tail swimming
 
