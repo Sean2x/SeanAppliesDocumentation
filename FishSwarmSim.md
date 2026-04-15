@@ -77,9 +77,11 @@ If you're making a game:
 
 <!-- * Idle movement, Mouse fear, boundary awareness -->
 
-direction roation. speed states, tail swimming
+<!-- * direction roation. speed states, -->
 
-flocking, water current, food system, hunger meter
+flocking,
+
+water current, food system, hunger meter
 
 predator, energy system,
 
