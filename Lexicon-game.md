@@ -16,7 +16,7 @@ It scratches the itch for a wordle brainy game, and a progression rpg game
 
 <!-- Success Criteria: -->
 
-I get a 5 friends addicted enough to finish a level and ask for more
+<!-- * I get a 5 friends addicted enough to finish a level and ask for more *  -->
 
 # Purpose & Motivation
 
@@ -70,12 +70,16 @@ Version: 1.5
 Changes Made: added dictionary, seeds, rounds, shuffle, top words, cleaned up scoring system
 Next Adjustment: add special tiles, add letter score indicators, game modes, i.e. endless, best of 10 rounds; leaderboards; thanks to beta testers, combo system
 
-This turns chaos into learning.
+Date: 4/14/26
+Version: 2.0
+Changes Made: Different gamemodes (timed, ranked, endless), added letter score orbs, word history, cleaned up code,
+Next Adjustment:
 
 # Future Roadmap
 
-Short Term: add dictionary
-Mid Term: finish up website
+<!-- * Short Term: add dictionary -->
+<!-- * Mid Term: finish up website -->
+
 Long Term: import game to unity and start actual rpg
 
 What gets cut if resources shrink?
