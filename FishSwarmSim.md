@@ -77,13 +77,11 @@ If you're making a game:
 
 <!-- * Idle movement, Mouse fear, boundary awareness -->
 
-<!-- * direction roation. speed states, -->
+<!-- * direction roation. speed states, Sprites -->
 
-<!-- * flocking, -->
+<!-- * flocking behaviors, -->
 
-water current, food system, hunger meter
-
-predator, energy system,
+predators, food pelets, homoginization of frame rates
 
 traits, reproduction, mutation
 
@@ -106,20 +104,24 @@ evolution, calculations and frames
 
 # Iteration Log
 
-Date:
-Version:
-Changes Made:
-Reason:
-Observed Outcome:
-Next Adjustment:
+Date: 4/11/26
+Version: 1.0
+Changes Made: Created fish, run away from mouse and borders,
 
-This turns chaos into learning.
+Date: 4/13/26
+Version: 1.3
+Changes Made: Made sprite, added modes alert , video BG
+
+Date: 4/19/26
+Version: 1.6
+Changes Made: Animated sprite, added cohesion seperation and alignment,
+Next Adjustment: Add more fishes, add predators/ food
 
 # Future Roadmap
 
-Short Term:
-Mid Term:
-Long Term:
+Short Term: working fish school
+Mid Term: predarots and state machine exploration
+Long Term: Cohesion adhesion alignment evolution
 
 What gets cut if resources shrink?
 What expands if resources grow?
