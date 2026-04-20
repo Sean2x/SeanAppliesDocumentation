@@ -79,7 +79,7 @@ If you're making a game:
 
 <!-- * direction roation. speed states, -->
 
-flocking,
+<!-- * flocking, -->
 
 water current, food system, hunger meter
 
