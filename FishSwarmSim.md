@@ -117,6 +117,11 @@ Version: 1.6
 Changes Made: Animated sprite, added cohesion seperation and alignment,
 Next Adjustment: Add more fishes, add predators/ food
 
+Date: 4/21/26
+Version: 1.7
+Changes Made: Delta time
+Next Adjustment: Add more fishes, add predators/ food
+
 # Future Roadmap
 
 Short Term: working fish school
